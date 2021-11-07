@@ -8,3 +8,4 @@ result=15
 
 #Print the value of result.
 #'The result is:'
+print('The result is:',result)
