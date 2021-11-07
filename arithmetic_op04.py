@@ -12,6 +12,7 @@ number//=10
 x3 = number%10
 number//=10
 #Create a variable called 'answer' and assign it the sum of the three digits.
-
+answer = x1+x2+x3
 #print the sum of the three digits.
+print(answer)
 
